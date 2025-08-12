@@ -3,5 +3,6 @@ A simple script to convert Minecraft language files from the old pre-1.13 .lang 
 Instructions:
 1. Clone repository.
 2. Throw the old .lang files into the input folder.
-3. Run the "lang converter.py" python script.
+3. Run the "lang_converter.py" python script.
+
 4. Converted .json files will appear in the output file.
