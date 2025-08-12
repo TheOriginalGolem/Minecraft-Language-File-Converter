@@ -1,4 +1,4 @@
-A simple script to convert from the old pre-1.13 .lang format, into the new post-1.13 .json format
+A simple script to convert Minecraft language files from the old pre-1.13 .lang format, into the new post-1.13 .json format
 
 Instructions:
 1. Clone repository.
